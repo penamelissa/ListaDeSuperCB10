@@ -1,0 +1,59 @@
+<!DOCTYPE html><!--comentario-->
+<html> lang="es"
+<head>
+  <meta charset="utf-8"> <!Caracteres admitidos-->
+  <title>Lista de Super</title>
+  <h8></h8>
+</head>
+<body>
+  <h8>Lista de Super</h8 <!--tamano de la letra-->
+  <h8></h8>
+
+  <ol>
+  <p>Carne</li>
+      <li>500 gr de Pollo</li>
+        <img src="img/Pollo.jpg" alt="Pollo">
+      <li>500 gr de Carne</li>
+        <img src="img/Carne.jpg" alt="Carne">
+      <li>500 gr de Pescado</li>
+        <img src="img/Pescado.jpg" alt="Pescado">
+
+  <p>Frutas</li>
+        <li>2 Manzanas</li>
+        <li>1 Pera</li>
+        <li>1 Durazno</li>
+
+  <p>Dulce</li>
+      <li>650gr Nutella</li>
+      <li>Bombones</li>
+      <li>Paletas payasos</li>
+
+  <h8>Lista desordenada</h3>
+
+    </li>
+  </ol>
+
+  <ul> <!--lista desordenada-->
+    <ul>Hogar</ul>
+    <br>
+
+      <li>Pasta de dientes</li>
+      <li>Cepillo dental</li>
+      <li>Filtros de aspiradora</li>
+      <img src="img/A.jpg" alt="Alimentos">
+    <ul>Detergentes</ul>
+
+      <li>Pasta de dientes</li>
+      <li>Cepillo dental</li>
+      <li>Filtros de aspiradora</li>
+    <br>
+li*3
+
+  </ul>
+
+
+
+
+
+</body>
+</html>

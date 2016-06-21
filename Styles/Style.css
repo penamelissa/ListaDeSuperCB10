@@ -1,0 +1,22 @@
+body{
+  background-color: red;
+}
+h1{
+  color:#FF7F50;
+  font-family:sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size:60pix
+  background-color:blue;
+  text-align:center;
+}
+/*cerrar con punto y coma*/
+img{
+width: 50%;
+height: auto;
+}
+.imagenLac{
+  width: 20px;
+}
+#yogurt{
+  height:100px;
+}

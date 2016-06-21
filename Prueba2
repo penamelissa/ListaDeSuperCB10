@@ -1,0 +1,15 @@
+<html>
+<head>
+  <h8>Lista de Super</h8
+  <title>Lista de Super</title>
+</head>
+<body>
+  <p>Carne</li>
+    <li>500 gr de Pollo</li>
+      <img src="img/Pollo.jpg" alt="Pollo">
+    <li>500 gr de Carne</li>
+      <img src="img/Carne.jpg" alt="Carne">
+    <li>500 gr de Pescado</li>
+      <img src="img/Pescado.jpg" alt="Pescado">
+</body>
+</html>
